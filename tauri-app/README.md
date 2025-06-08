@@ -15,4 +15,7 @@ npm install
 npm run tauri android init
 npm run dev
 npm run tauri android dev -- --open
+
+cd ..
+npx @tauri-apps/cli plugin new mediabutton --android
 ```
